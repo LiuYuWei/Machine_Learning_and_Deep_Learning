@@ -1,4 +1,4 @@
-# Machine_Learning
+## Machine_Learning
 
 ## 演算法種類：
 
@@ -27,6 +27,6 @@
 - https://github.com/LiuYuWei/DNN_Python_Keras
 
 
-# 個人檔案：
-## Linkedin: 
+## 個人檔案：
+### Linkedin: 
 - www.linkedin.com/in/simonliuyuwei
