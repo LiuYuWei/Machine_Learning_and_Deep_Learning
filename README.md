@@ -1,3 +1,5 @@
+（持續更新中）
+
 ## 演算法種類：
 
 ### 1.分類(classification):
@@ -21,7 +23,7 @@
 ### 1.Deep Neural Network(DNN):
 - https://github.com/LiuYuWei/DNN_Python_Keras
 
-（持續更新中）
+
 
 ## 個人檔案：
 ### Linkedin: 
