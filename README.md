@@ -1,5 +1,3 @@
-## Machine_Learning
-
 ## 演算法種類：
 
 ### 分類(classification):
@@ -20,6 +18,8 @@
 
 ### Kmeans:
 - https://github.com/LiuYuWei/Kmeans_Python_Sklearn
+
+--------------------
 
 ## 深度學習種類:
 
