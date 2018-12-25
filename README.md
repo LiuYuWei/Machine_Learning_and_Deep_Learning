@@ -26,6 +26,9 @@
 ### 1.Deep Neural Network(DNN):
 - https://github.com/LiuYuWei/DNN_Python_Keras
 
+### 2.RNN:(Example:Stock_TSEC_weighted_index_prediction)
+https://github.com/LiuYuWei/RNN_Stock_TSEC_weighted_index
+
 ## 網路爬蟲:
 ### Weather_information_CWB_crawler:
 - https://github.com/LiuYuWei/Weather_information_CWB_crawler
