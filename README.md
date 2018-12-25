@@ -26,11 +26,13 @@
 ### 1.Deep Neural Network(DNN):
 - https://github.com/LiuYuWei/DNN_Python_Keras
 
-### 2.CNN:(Example:Mnist)
-https://github.com/LiuYuWei/CNN_Python_Keras_Mnist
+### 2.Convolution Neural Network(CNN):
+- Example: Mnist(image recognition)
+- https://github.com/LiuYuWei/CNN_Python_Keras_Mnist
 
-### 3.RNN:(Example:Stock_TSEC_weighted_index_prediction)
-https://github.com/LiuYuWei/RNN_Stock_TSEC_weighted_index
+### 3.Recurrent Neural Networks(RNN):
+- Example: Stock_TSEC_weighted_index_prediction(Time Series Data)
+- https://github.com/LiuYuWei/RNN_Stock_TSEC_weighted_index
 
 ## 網路爬蟲:
 ### Weather_information_CWB_crawler:
