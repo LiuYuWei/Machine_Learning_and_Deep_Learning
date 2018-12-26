@@ -30,9 +30,9 @@
 - Example: Mnist(image recognition)
 - https://github.com/LiuYuWei/CNN_Python_Keras_Mnist
 
-### 3.Recurrent Neural Networks(RNN):
+### 3.Long Short-Term Memory(LSTM):
 - Example: Stock_TSEC_weighted_index_prediction(Time Series Data)
-- https://github.com/LiuYuWei/RNN_Stock_TSEC_weighted_index
+- https://github.com/LiuYuWei/LSTM_Python_Stock_TSEC_weighted_index
 
 ## 三、網路爬蟲:
 ### Weather_information_CWB_crawler:
