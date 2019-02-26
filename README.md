@@ -34,7 +34,7 @@
 - Example: Stock_TSEC_weighted_index_prediction(Time Series Data)
 - https://github.com/LiuYuWei/LSTM_Python_Stock_TSEC_weighted_index
 
-### 4.Attention model/layer: (K
+### 4.Attention model/layer: (Keras)
 https://github.com/LiuYuWei/Layer_Attention
 
 ## 三、網路爬蟲:
