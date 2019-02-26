@@ -35,13 +35,13 @@
 - https://github.com/LiuYuWei/LSTM_Python_Stock_TSEC_weighted_index
 
 ### 4.Attention model/layer:
-https://github.com/LiuYuWei/Layer_Attention
+- https://github.com/LiuYuWei/Layer_Attention
 
 ### 5.Capsule_Network:
-https://github.com/LiuYuWei/Capsule_Network
+- https://github.com/LiuYuWei/Capsule_Network
 
 ### 6.GRU+Capsule:
-https://github.com/LiuYuWei/GRU_Capsule
+- https://github.com/LiuYuWei/GRU_Capsule
 
 ## 三、網路爬蟲:
 ### Weather_information_CWB_crawler:
