@@ -40,6 +40,9 @@ https://github.com/LiuYuWei/Layer_Attention
 ### 5.Capsule_Network:
 https://github.com/LiuYuWei/Capsule_Network
 
+### 6.GRU+Capsule:
+https://github.com/LiuYuWei/GRU_Capsule
+
 ## 三、網路爬蟲:
 ### Weather_information_CWB_crawler:
 - https://github.com/LiuYuWei/Weather_information_CWB_crawler
