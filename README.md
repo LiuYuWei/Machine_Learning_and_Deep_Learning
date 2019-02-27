@@ -15,11 +15,11 @@
 #### ● RandomForest:
 - https://github.com/LiuYuWei/RandomForest_Python_Sklearn
 
-#### ● LightGBM:
+#### ● Microsoft - LightGBM:
 - https://github.com/LiuYuWei/LightGBM_Python_Function
 
 ### 2.分群(cluster):
-#### ● Kmeans:
+#### ● K-means:
 - https://github.com/LiuYuWei/Kmeans_Python_Sklearn
 
 ## 二、深度學習種類:
