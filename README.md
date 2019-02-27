@@ -1,4 +1,4 @@
-（持續更新個人學習演算法中，最新更新日期:20190226）
+（持續更新個人學習演算法中，最新更新日期:20190227）
 
 ## 一、演算法種類：
 
@@ -43,10 +43,14 @@
 ### 6.GRU+Capsule:
 - https://github.com/LiuYuWei/GRU_Capsule
 
-## 三、網路爬蟲:
+## 三、網路爬蟲:(Web crawler)
 ### Weather_information_CWB_crawler:
 - https://github.com/LiuYuWei/Weather_information_CWB_crawler
 
-## 四、個人檔案：
+## 四、其他:(others)
+### Zip the file:
+- https://github.com/LiuYuWei/Zip_file
+
+## 五、個人檔案：
 ### Linkedin: 
 - www.linkedin.com/in/simonliuyuwei
