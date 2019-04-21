@@ -1,4 +1,4 @@
-（持續更新個人學習演算法中，最新更新日期:20190227）
+（持續更新個人學習演算法中，最新更新日期:20190421）
 
 ## 一、演算法種類：
 
@@ -29,6 +29,8 @@
 ### 2.Convolution Neural Network(CNN):
 - Example: Mnist(image recognition)
 - https://github.com/LiuYuWei/CNN_Python_Keras_Mnist
+- Lenet:
+- https://github.com/LiuYuWei/CNN_Model_LeNet
 
 ### 3.Long Short-Term Memory(LSTM):
 - Example: Stock_TSEC_weighted_index_prediction(Time Series Data)
