@@ -29,11 +29,11 @@
 ### 2.Convolution Neural Network(CNN):
 - Example: Mnist(image recognition)
   https://github.com/LiuYuWei/CNN_Python_Keras_Mnist
-- Lenet:(1998)\n
+- Lenet(1998):
   https://github.com/LiuYuWei/CNN_Model_LeNet
-- AlexNet:(2012)
+- AlexNet(2012):
   https://github.com/LiuYuWei/CNN_model_AlexNet
-- VGG16:(2014)
+- VGG16(2014):
   https://github.com/LiuYuWei/CNN_Model_VGG16
 - GoogleNet_Inception(2014):
 
