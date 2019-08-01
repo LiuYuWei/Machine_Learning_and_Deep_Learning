@@ -42,6 +42,12 @@ D. VGG16(2014):
 E. GoogleNet_Inception(2014):
 -  https://github.com/LiuYuWei/CNN_Model_GoogleNet_V1
 
+F. Yolo V3:
+   1. training:
+      https://github.com/LiuYuWei/keras-yolo3-training
+   2. detection:
+      https://github.com/LiuYuWei/keras-yolo3-Detector
+
 ### 3.Long Short-Term Memory(LSTM):
 - Example: Stock_TSEC_weighted_index_prediction(Time Series Data)
 - https://github.com/LiuYuWei/LSTM_Python_Stock_TSEC_weighted_index
